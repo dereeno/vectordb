@@ -1,10 +1,10 @@
 "origin": The origin of replication in the vector.
 "inserts" : The fragments of DNA inserted into the backbone to make the overall vector.
 "growth_notes": Notes for the scientist on how to duplicate this vector in the laboratory.
-"terms": Keyword search terms.
+"terms": License terms governing the use of the DNA vector
 "resistance_markers": A key attribute of the vector that describes how to work with it in the laboratory.
 "name": The name given to the vector.
-"tags": More search tags for this vector.
+"tags": Keyword search tags for this vector.
 "url": The URL were this vector can be viewed on addgene.org.
 "growth_temp": The temperature to cultivate cells containing this vector.
 "public_addgene_partial_sequences": One or more fragments of the experimentally verified DNA sequence of the vector.
